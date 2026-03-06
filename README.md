@@ -26,8 +26,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (git@github.com:VicRojas8084/qr-code-component.git)
+- Live Site URL: (https://vicrojas8084.github.io/qr-code-component/)
 
 ## My process
 
@@ -39,8 +39,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Desktop-first workflow
 
 ### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
 html code, shows how write a unique instruction idea divided in 3 lines., see below:
 
@@ -94,7 +92,7 @@ Canvas version (help to code) --> I use canvas mode when I have some code and I 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@VicRojas8084](https://www.frontendmentor.io/profile/VicRojas8084)
 
 ## Acknowledgments
 
