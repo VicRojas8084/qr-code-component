@@ -96,5 +96,6 @@ Canvas version (help to code) --> I use canvas mode when I have some code and I 
 
 Thanks to Frontend Mentor to share this learning site for all people interested in improvement WebDev skills.
 
-Best Regards
+Best Regards,
+
 Vic
