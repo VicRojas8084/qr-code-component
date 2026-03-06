@@ -1,0 +1,74 @@
+/* RESET */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.page {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #d5e1ef;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.content {
+  background-color: #fff;
+  border-radius: 16px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+
+  width: 320px;
+  height: 499px;
+  padding: 16px;
+}
+
+.header img {
+  border-radius: 10px;
+}
+
+img {
+  width: 288px;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding-left: 16px;
+  padding-right: 16px;
+
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.main__title {
+  font-size: 10px;
+  color: #1f314f;
+}
+
+.main__instructions {
+  font-size: 14px;
+  line-height: 1.2rem;
+  color: #68778d;
+}
+
+.footer {
+  margin-bottom: auto;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
